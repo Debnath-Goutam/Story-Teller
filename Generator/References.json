@@ -1,0 +1,511 @@
+[
+  {
+    "id": "story_001",
+    "title": "The Brahmadaitya's Bargain",
+    "region": "India",
+    "culture": "Bengali",
+    "creatures": ["Brahmadaitya", "spirit"],
+    "type": "Folktale",
+    "themes": ["ghost", "wisdom", "village"],
+    "text": "A benevolent Brahmadaitya, bound to a banyan tree, offers guidance to a frightened traveler who lost the road at dusk. In exchange for companionship, the spirit shares forgotten histories of the village and helps the man expose a corrupt landlord."
+  },
+  {
+    "id": "story_002",
+    "title": "Kitsune at the Riverbank",
+    "region": "Japan",
+    "culture": "Japanese",
+    "creatures": ["Kitsune"],
+    "type": "Folktale",
+    "themes": ["shapeshifter", "trickster", "love"],
+    "text": "A fox spirit disguised as a musician helps a lonely farmer recover from grief. When her identity is revealed by moonlight, she vanishes in a swirl of leaves but leaves him a flute that summons foxfire whenever he feels lost."
+  },
+  {
+    "id": "story_003",
+    "title": "Song of the Banshee",
+    "region": "Ireland",
+    "culture": "Celtic",
+    "creatures": ["Banshee"],
+    "type": "Legend",
+    "themes": ["death omen", "family", "ancestry"],
+    "text": "A wandering bard meets a mysterious woman singing by a moonlit cliff. Her lament predicts an old clan’s final heir is in danger. The bard races against fate to deliver the warning and discovers the woman was a banshee tied to his own forgotten lineage."
+  },
+  {
+    "id": "story_004",
+    "title": "The Werewolf of Glenmoor",
+    "region": "Scotland",
+    "culture": "Scottish",
+    "creatures": ["Werewolf"],
+    "type": "Legend",
+    "themes": ["curse", "transformation"],
+    "text": "A shepherd cursed by a traveling witch struggles against his wolf form each full moon. When a child goes missing, he must confront his monstrous half and prove the beast within him can also protect."
+  },
+  {
+    "id": "story_005",
+    "title": "The Snake Princess of Assam",
+    "region": "India",
+    "culture": "Assamese",
+    "creatures": ["Naga"],
+    "type": "Folktale",
+    "themes": ["water", "royalty"],
+    "text": "A fisherman rescues a glowing serpent who reveals herself as a Naga princess. In gratitude, she grants him a scale that can summon rain, but warns him to use it only when the land, not greed, calls for water."
+  },
+  {
+    "id": "story_006",
+    "title": "The River Dragon's Debt",
+    "region": "China",
+    "culture": "Chinese",
+    "creatures": ["River Dragon"],
+    "type": "Myth",
+    "themes": ["balance", "nature"],
+    "text": "A proud river dragon floods a valley to punish a greedy magistrate. A young herbalist confronts the dragon and reminds him that justice without balance becomes cruelty, earning a pact that ends the flood."
+  },
+  {
+    "id": "story_007",
+    "title": "Draugr of the Midnight Fjord",
+    "region": "Norway",
+    "culture": "Norse",
+    "creatures": ["Draugr"],
+    "type": "Legend",
+    "themes": ["undead", "revenge"],
+    "text": "A draugr rises from his burial mound demanding repayment of a stolen sword. A shieldmaiden braves the haunted fjord to return the weapon, breaking the curse and learning the truth of the warrior’s betrayal."
+  },
+  {
+    "id": "story_008",
+    "title": "The Golden Anansi",
+    "region": "Ghana",
+    "culture": "Akan",
+    "creatures": ["Anansi"],
+    "type": "Folktale",
+    "themes": ["trickster", "cleverness"],
+    "text": "Anansi the Spider boasts he can steal sunlight from the sky. Instead, he discovers a hidden golden spider who guards the dawn and challenges him to a contest of wits that decides who truly controls stories."
+  },
+  {
+    "id": "story_009",
+    "title": "Moonlit Yuki-Onna",
+    "region": "Japan",
+    "culture": "Japanese",
+    "creatures": ["Yuki-Onna"],
+    "type": "Legend",
+    "themes": ["winter", "haunting"],
+    "text": "A snow spirit spares a woodcutter’s life after he shows kindness in a blizzard. Years later she returns, torn between her icy nature and lingering compassion, when the village faces a deadly winter."
+  },
+  {
+    "id": "story_010",
+    "title": "The Albanian Vampire Bride",
+    "region": "Albania",
+    "culture": "Balkan",
+    "creatures": ["Vampire"],
+    "type": "Folklore",
+    "themes": ["curse", "love"],
+    "text": "A bride rises from her grave as a vampiric shtriga after a false accusation ruins her wedding. Her spirit haunts the guilty with dreams until the truth is revealed and she finally rests."
+  },
+
+  {
+    "id": "story_011",
+    "title": "Rakshasa in the Mango Grove",
+    "region": "India",
+    "culture": "Hindu",
+    "creatures": ["Rakshasa"],
+    "type": "Myth",
+    "themes": ["battle", "illusion"],
+    "text": "A wandering ascetic confronts a flesh-eating rakshasa who disguises itself as a noble prince. Through mantra and insight, the ascetic exposes the illusion and frees the grove from fear."
+  },
+  {
+    "id": "story_012",
+    "title": "Lady of the Lake Mist",
+    "region": "Wales",
+    "culture": "Celtic",
+    "creatures": ["Water Spirit"],
+    "type": "Folktale",
+    "themes": ["mystery", "lake"],
+    "text": "A farmer falls in love with a lake maiden who warns she can stay only until he strikes her thrice. Years pass in harmony until fate tests them, and the spirit returns to the lake leaving gifts of healing water."
+  },
+  {
+    "id": "story_013",
+    "title": "The Thunderbird's Warning",
+    "region": "North America",
+    "culture": "Indigenous",
+    "creatures": ["Thunderbird"],
+    "type": "Legend",
+    "themes": ["storm", "power"],
+    "text": "A young hunter encounters a thunderbird during a violent storm. The mighty being warns of an approaching disaster and charges the hunter with guiding his people to safety."
+  },
+  {
+    "id": "story_014",
+    "title": "Changeling in the Hearth",
+    "region": "Ireland",
+    "culture": "Celtic",
+    "creatures": ["Changeling"],
+    "type": "Folktale",
+    "themes": ["family", "otherworld"],
+    "text": "When a baby begins acting strangely, a grandmother suspects the fae have replaced him. She devises a clever ritual to coax the real child back from the fairy realm."
+  },
+  {
+    "id": "story_015",
+    "title": "The Desert Ghoul",
+    "region": "Arabia",
+    "culture": "Arab",
+    "creatures": ["Ghoul"],
+    "type": "Legend",
+    "themes": ["shapeshifter", "danger"],
+    "text": "A merchant traveling at night meets a lost woman who requests shelter. His camel refuses to move near her shadow, revealing she is a ghoul in disguise."
+  },
+
+  {
+    "id": "story_016",
+    "title": "The Mermaid of the Silver Coast",
+    "region": "Portugal",
+    "culture": "Portuguese",
+    "creatures": ["Mermaid"],
+    "type": "Folktale",
+    "themes": ["sea", "magic"],
+    "text": "A fisherman rescues a mermaid tangled in nets. Grateful, she grants him safe passage during storms, but warns him never to boast of her aid."
+  },
+  {
+    "id": "story_017",
+    "title": "Guardian Jinn of the Oasis",
+    "region": "Middle East",
+    "culture": "Arab",
+    "creatures": ["Jinn"],
+    "type": "Myth",
+    "themes": ["fire spirit", "bargain"],
+    "text": "A jinn guarding an oasis tests travelers with riddles to judge their intentions. A humble caravan boy passes the trials and earns the jinn’s lifelong protection."
+  },
+  {
+    "id": "story_018",
+    "title": "The Wendigo's Hunger",
+    "region": "Canada",
+    "culture": "Algonquin",
+    "creatures": ["Wendigo"],
+    "type": "Legend",
+    "themes": ["winter", "fear"],
+    "text": "A cold-hearted trader becomes obsessed with hoarding food, unknowingly feeding a wendigo spirit. Only a brave healer dares confront the monstrous presence."
+  },
+  {
+    "id": "story_019",
+    "title": "The Jade Rabbit's Gift",
+    "region": "China",
+    "culture": "Chinese",
+    "creatures": ["Moon Spirit"],
+    "type": "Folktale",
+    "themes": ["sacrifice", "kindness"],
+    "text": "A village child dreaming of heroes meets the Jade Rabbit in a moonlit vision. The spirit gives her a glowing herb that cures a mysterious fever spreading in her village."
+  },
+  {
+    "id": "story_020",
+    "title": "Tengu of Red Peak",
+    "region": "Japan",
+    "culture": "Japanese",
+    "creatures": ["Tengu"],
+    "type": "Legend",
+    "themes": ["mountain", "discipline"],
+    "text": "A proud swordsman seeks a tengu master. The spirit forces him through illusions revealing his arrogance until he learns true humility."
+  },
+
+  {
+    "id": "story_021",
+    "title": "Loch Beast Beneath the Fog",
+    "region": "Scotland",
+    "culture": "Scottish",
+    "creatures": ["Water Beast"],
+    "type": "Legend",
+    "themes": ["mystery", "lake"],
+    "text": "A shepherd claims the fog over the loch whispers warnings. One night he sees a silhouette gliding beneath the surface, guiding him away from a mudslide."
+  },
+  {
+    "id": "story_022",
+    "title": "The Obambo's Shadow Path",
+    "region": "Kenya",
+    "culture": "Kikuyu",
+    "creatures": ["Obambo (ghost)"],
+    "type": "Folktale",
+    "themes": ["ancestry", "guidance"],
+    "text": "Ancestral ghosts called obambo guide a lost child through the forest to deliver a message to her tribe about a coming drought."
+  },
+  {
+    "id": "story_023",
+    "title": "Selkie of the Storm Reef",
+    "region": "Scotland",
+    "culture": "Gaelic",
+    "creatures": ["Selkie"],
+    "type": "Folktale",
+    "themes": ["transformation", "sea"],
+    "text": "A fisherman finds a shimmering sealskin and unknowingly traps a selkie woman. When he returns it, she protects his village from a deadly storm surge."
+  },
+  {
+    "id": "story_024",
+    "title": "The Trickster Coyote's Star",
+    "region": "North America",
+    "culture": "Indigenous",
+    "creatures": ["Coyote"],
+    "type": "Folktale",
+    "themes": ["trickster", "cosmos"],
+    "text": "Coyote steals a star from the sky to impress a village, accidentally creating a new constellation that guides travelers at night."
+  },
+  {
+    "id": "story_025",
+    "title": "The Bone Witch of the Steppes",
+    "region": "Mongolia",
+    "culture": "Mongolian",
+    "creatures": ["Spirit Witch"],
+    "type": "Legend",
+    "themes": ["sorcery", "trial"],
+    "text": "A feared bone witch summons ancestral spirits to challenge a warrior who trespassed upon a sacred burial site."
+  },
+
+  {
+    "id": "story_026",
+    "title": "The Vampire Monk of Serbia",
+    "region": "Serbia",
+    "culture": "Balkan",
+    "creatures": ["Vampire"],
+    "type": "Legend",
+    "themes": ["penance", "haunting"],
+    "text": "A monk rises as a vampire after breaking a sacred vow. He haunts his monastery, seeking someone worthy to hear his confession and end his torment."
+  },
+  {
+    "id": "story_027",
+    "title": "The Bamboo Phantom",
+    "region": "China",
+    "culture": "Chinese",
+    "creatures": ["Ghost"],
+    "type": "Folktale",
+    "themes": ["forest", "mystery"],
+    "text": "A phantom in a bamboo grove leads a young scholar to a hidden trove of ancient writings meant to restore his family's fortune."
+  },
+  {
+    "id": "story_028",
+    "title": "The Jorōgumo's Web",
+    "region": "Japan",
+    "culture": "Japanese",
+    "creatures": ["Jorogumo"],
+    "type": "Legend",
+    "themes": ["danger", "illusion"],
+    "text": "A traveling poet becomes ensnared by a spider demon disguised as a geisha. He escapes by reciting a poem so beautiful it momentarily halts her hunger."
+  },
+  {
+    "id": "story_029",
+    "title": "The Valkyrie's Lost Feather",
+    "region": "Norway",
+    "culture": "Norse",
+    "creatures": ["Valkyrie"],
+    "type": "Myth",
+    "themes": ["fate", "honor"],
+    "text": "A mortal finds a fallen feather from a Valkyrie's cloak. Returning it grants him a brief glimpse into the fates of warriors yet to come."
+  },
+  {
+    "id": "story_030",
+    "title": "The Desert Ifrit's Mirage",
+    "region": "Middle East",
+    "culture": "Arab",
+    "creatures": ["Ifrit"],
+    "type": "Legend",
+    "themes": ["illusion", "fire"],
+    "text": "An ifrit manipulates mirages to test the courage of a caravan leader who has lost faith in himself."
+  },
+
+  {
+    "id": "story_031",
+    "title": "The Vetala’s Riddle",
+    "region": "India",
+    "culture": "Hindu",
+    "creatures": ["Vetala"],
+    "type": "Folktale",
+    "themes": ["riddle", "spirit"],
+    "text": "A corpse-possessing vetala challenges a prince with riddles that reveal hidden truths about justice and compassion."
+  },
+  {
+    "id": "story_032",
+    "title": "The Jaguar of the Red Night",
+    "region": "Brazil",
+    "culture": "Amazonian",
+    "creatures": ["Jaguar Spirit"],
+    "type": "Legend",
+    "themes": ["forest", "guardian"],
+    "text": "A sacred jaguar spirit protects the rainforest from loggers by appearing in their dreams and showing them the destruction they cause."
+  },
+  {
+    "id": "story_033",
+    "title": "The Ghost Bride of the Silk Road",
+    "region": "Central Asia",
+    "culture": "Turkic",
+    "creatures": ["Ghost"],
+    "type": "Legend",
+    "themes": ["love", "loss"],
+    "text": "A trader encounters a ghost bride searching for her lost husband who vanished along the Silk Road. He helps her spirit reunite with him beyond the mortal realm."
+  },
+  {
+    "id": "story_034",
+    "title": "The Mountain Troll's Accord",
+    "region": "Norway",
+    "culture": "Norse",
+    "creatures": ["Troll"],
+    "type": "Folktale",
+    "themes": ["strength", "cleverness"],
+    "text": "A troll threatens a village until a clever girl outwits him with a riddle contest, forging an unexpected pact."
+  },
+  {
+    "id": "story_035",
+    "title": "The Firebird's Ember",
+    "region": "Russia",
+    "culture": "Slavic",
+    "creatures": ["Firebird"],
+    "type": "Folktale",
+    "themes": ["magic", "quest"],
+    "text": "A prince receives a glowing ember from the Firebird that guides him through dangers and reveals acts of kindness."
+  },
+
+  {
+    "id": "story_036",
+    "title": "The Shadow Panther of Mali",
+    "region": "Mali",
+    "culture": "West African",
+    "creatures": ["Panther Spirit"],
+    "type": "Legend",
+    "themes": ["night", "prowess"],
+    "text": "A hunter pursues a mystical black panther only to discover it protects the village from unseen dangers each night."
+  },
+  {
+    "id": "story_037",
+    "title": "The Sea Bishop",
+    "region": "Baltic Sea",
+    "culture": "European",
+    "creatures": ["Sea Monster"],
+    "type": "Legend",
+    "themes": ["ocean", "mystery"],
+    "text": "Sailors encounter a fishlike humanoid who silently warns them of an approaching storm."
+  },
+  {
+    "id": "story_038",
+    "title": "The Cry of La Llorona",
+    "region": "Mexico",
+    "culture": "Mexican",
+    "creatures": ["Weeping Spirit"],
+    "type": "Legend",
+    "themes": ["ghost", "warning"],
+    "text": "A traveler hears La Llorona near a river at night, only to realize she is warning him of a flood rather than haunting him."
+  },
+  {
+    "id": "story_039",
+    "title": "The Phoenix's Ashes",
+    "region": "Egypt",
+    "culture": "Egyptian",
+    "creatures": ["Phoenix"],
+    "type": "Myth",
+    "themes": ["rebirth", "renewal"],
+    "text": "A phoenix appears to a desperate scribe, teaching him that even the darkest times hold the seed of renewal."
+  },
+  {
+    "id": "story_040",
+    "title": "The Oni’s Lantern",
+    "region": "Japan",
+    "culture": "Japanese",
+    "creatures": ["Oni"],
+    "type": "Folktale",
+    "themes": ["fear", "night"],
+    "text": "An oni uses a glowing lantern to terrify villages, but a brave child discovers the light is actually a beacon searching for the oni’s missing kin."
+  },
+
+  {
+    "id": "story_041",
+    "title": "The Forest Djinn of Persia",
+    "region": "Iran",
+    "culture": "Persian",
+    "creatures": ["Djinn"],
+    "type": "Legend",
+    "themes": ["illusion", "test"],
+    "text": "A djinn tests a lost traveler by creating illusions of danger to reveal the man's true character."
+  },
+  {
+    "id": "story_042",
+    "title": "The Golem of Old Prague",
+    "region": "Czech Republic",
+    "culture": "Jewish",
+    "creatures": ["Golem"],
+    "type": "Legend",
+    "themes": ["protection", "creation"],
+    "text": "A rabbi animates a clay golem to protect his community, but must teach it compassion to prevent unintended harm."
+  },
+  {
+    "id": "story_043",
+    "title": "The Black Shuck of Norfolk",
+    "region": "England",
+    "culture": "English",
+    "creatures": ["Black Dog"],
+    "type": "Legend",
+    "themes": ["omen", "protection"],
+    "text": "The feared black hound appears to a farm girl, not as an omen of death, but as a silent guardian warning her of a coming fire."
+  },
+  {
+    "id": "story_044",
+    "title": "The Harpy of the Wind Cliffs",
+    "region": "Greece",
+    "culture": "Greek",
+    "creatures": ["Harpy"],
+    "type": "Myth",
+    "themes": ["storm", "flight"],
+    "text": "A harpy steals food from villagers during a drought, only to reveal she is trying to feed starving orphaned children hidden in the cliffs."
+  },
+  {
+    "id": "story_045",
+    "title": "The Thunderbird and the Serpent",
+    "region": "North America",
+    "culture": "Indigenous",
+    "creatures": ["Thunderbird", "Horned Serpent"],
+    "type": "Myth",
+    "themes": ["battle", "balance"],
+    "text": "A great storm marks the clash between a thunderbird and a horned water serpent, witnessed by a young scout who learns the importance of harmony between sky and river."
+  },
+
+  {
+    "id": "story_046",
+    "title": "The Shadow Witch of the Taiga",
+    "region": "Siberia",
+    "culture": "Siberian",
+    "creatures": ["Witch"],
+    "type": "Folktale",
+    "themes": ["forest", "spirits"],
+    "text": "A witch who commands shadows rescues a child lost in the taiga by sending living silhouettes to guide her."
+  },
+  {
+    "id": "story_047",
+    "title": "The Sun-Eater Bat",
+    "region": "Philippines",
+    "culture": "Tagalog",
+    "creatures": ["Giant Bat"],
+    "type": "Myth",
+    "themes": ["celestial", "heroes"],
+    "text": "A giant bat tries to swallow the sun during an eclipse, and a brave youth uses a gong’s vibration to scare it away."
+  },
+  {
+    "id": "story_048",
+    "title": "The Dancing Skeletons",
+    "region": "Mexico",
+    "culture": "Mexican",
+    "creatures": ["Skeleton Spirits"],
+    "type": "Folktale",
+    "themes": ["afterlife", "celebration"],
+    "text": "During the Festival of Souls, skeleton spirits dance in the plaza, teaching a grieving boy that his ancestors celebrate life with him."
+  },
+  {
+    "id": "story_049",
+    "title": "The Jade Serpent of the Hills",
+    "region": "China",
+    "culture": "Chinese",
+    "creatures": ["Serpent Spirit"],
+    "type": "Legend",
+    "themes": ["guardian", "treasure"],
+    "text": "A jade serpent protects a hidden spring of healing water from greedy miners, revealing the spring only to those with pure intentions."
+  },
+  {
+    "id": "story_050",
+    "title": "The Midnight Werecat",
+    "region": "Thailand",
+    "culture": "Thai",
+    "creatures": ["Werecat"],
+    "type": "Folklore",
+    "themes": ["shapeshifting", "mystery"],
+    "text": "A market girl discovers her sickly cat transforms into a prowling guardian at midnight, protecting the village from malevolent spirits."
+  }
+]
+
