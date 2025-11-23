@@ -1,0 +1,553 @@
+{
+  "Vampire": {
+    "Core Traits": {
+      "Type": "Creature Profile",
+      "Content": {
+        "Origins": "European folklore",
+        "Powers": ["immortality", "charm", "speed", "regeneration"],
+        "Weaknesses": ["sunlight", "fire", "holy symbols"],
+        "Behavior": ["nocturnal", "predatory", "alluring"],
+        "Themes": ["forbidden desire", "corruption", "immortality"]
+      }
+    },
+    "Variants": {
+      "Type": "Creature Variants",
+      "Content": [
+        "Noble Vampires",
+        "Ferals",
+        "Psychic Vampires",
+        "Modern Urban Vampires",
+        "Ancient Bloodlords"
+      ]
+    },
+    "Appearance Notes": {
+      "Type": "Visual Description",
+      "Content": [
+        "Pale skin, sharp canines",
+        "Elegant or shadowed attire",
+        "Red or gold gleaming eyes",
+        "Graceful, predatory movements",
+        "No reflection (classic myths)"
+      ]
+    },
+    "Story Archetypes": {
+      "Type": "Story Template",
+      "Content": [
+        "Seductive stranger hiding dark truth",
+        "Vampire court politics and betrayal",
+        "Mortal turned into fledgling",
+        "Hunt between vampire and slayer",
+        "Curse of eternal hunger"
+      ]
+    },
+    "Atmosphere Guide": {
+      "Type": "Writing Tone",
+      "Content": [
+        "Gothic, sensual, tragic",
+        "Moonlit imagery, decadent interiors",
+        "Longing, hunger, ancient secrets",
+        "Conflicting morality and temptation"
+      ]
+    }
+  },
+
+  "Werewolf": {
+    "Core Traits": {
+      "Type": "Creature Profile",
+      "Content": {
+        "Transformation": "Full moon",
+        "Powers": ["strength", "enhanced senses"],
+        "Weakness": "silver",
+        "Dual Nature": "human vs beast",
+        "Themes": ["loss of control", "identity conflict"]
+      }
+    },
+    "Variants": {
+      "Type": "Creature Variants",
+      "Content": [
+        "Lunar-bound Werewolves",
+        "Voluntary Shifters",
+        "Cursed Bloodline Wolves",
+        "Pack Alphas / Omegas",
+        "Ferals"
+      ]
+    },
+    "Appearance Notes": {
+      "Type": "Visual Description",
+      "Content": [
+        "Muscular lupine humanoids",
+        "Yellow or blue glowing eyes",
+        "Thick fur and claws",
+        "Animalistic posture",
+        "Snarls and heavy breaths"
+      ]
+    },
+    "Story Archetypes": {
+      "Type": "Story Template",
+      "Content": [
+        "Curse revealed through violence",
+        "Pack politics",
+        "Hunter becomes hunted",
+        "Forbidden wolf-human romance",
+        "Struggle to control the beast"
+      ]
+    },
+    "Atmosphere Guide": {
+      "Type": "Writing Tone",
+      "Content": [
+        "Wild, primal, visceral",
+        "Moonlit forests",
+        "Instinct vs reason",
+        "Raw emotion and turmoil"
+      ]
+    }
+  },
+
+  "Cthulhu_Lovecraftian": {
+    "Core Traits": {
+      "Type": "Creature Profile",
+      "Content": {
+        "Nature": "Incomprehensible cosmic beings",
+        "Forms": "Non-Euclidean",
+        "Influence": "Psychic / madness",
+        "Themes": ["insignificance", "cosmic dread"],
+        "Alignment": "Not evil, just alien"
+      }
+    },
+    "Variants": {
+      "Type": "Creature Variants",
+      "Content": [
+        "Great Old Ones",
+        "Outer Gods",
+        "Deep Ones",
+        "Shoggoths",
+        "Void Watchers"
+      ]
+    },
+    "Appearance Notes": {
+      "Type": "Visual Description",
+      "Content": [
+        "Tentacles, shifting textures",
+        "Impossible geometry",
+        "Cyclopean shapes",
+        "Indescribable colors",
+        "Different for each observer"
+      ]
+    },
+    "Story Archetypes": {
+      "Type": "Story Template",
+      "Content": [
+        "Forbidden text drives scholar mad",
+        "Town hides ancient cult",
+        "Deep-sea entity awakening",
+        "Prophetic dreams",
+        "Scientist breaks reality"
+      ]
+    },
+    "Atmosphere Guide": {
+      "Type": "Writing Tone",
+      "Content": [
+        "Brooding, oppressive",
+        "Human insignificance",
+        "Slow dread",
+        "Distorted senses and unreliable perception"
+      ]
+    }
+  },
+
+  "Dragon": {
+    "Core Traits": {
+      "Type": "Creature Profile",
+      "Content": {
+        "Nature": "Mighty reptilian beings",
+        "Breath Weapons": ["fire", "lightning", "frost"],
+        "Intelligence": "bestial to wise",
+        "Themes": ["power", "treasure", "destruction", "wisdom"]
+      }
+    },
+    "Variants": {
+      "Type": "Creature Variants",
+      "Content": [
+        "Fire Dragons",
+        "Ice Dragons",
+        "Storm Dragons",
+        "Elder Wyrms",
+        "Elemental Dragons"
+      ]
+    },
+    "Appearance Notes": {
+      "Type": "Visual Description",
+      "Content": [
+        "Massive wings, scales",
+        "Glowing reptilian eyes",
+        "Horns and spines",
+        "Titanic presence",
+        "Smoke or frost breath aura"
+      ]
+    },
+    "Story Archetypes": {
+      "Type": "Story Template",
+      "Content": [
+        "Hero vs ancient dragon",
+        "Dragon mentor",
+        "Treasure heist",
+        "Kingdom destroyed",
+        "Dragon-rider bond"
+      ]
+    },
+    "Atmosphere Guide": {
+      "Type": "Writing Tone",
+      "Content": [
+        "Epic, grand",
+        "Vast landscapes",
+        "Destiny, awe, power"
+      ]
+    }
+  },
+
+  "Fairy": {
+    "Core Traits": {
+      "Type": "Creature Profile",
+      "Content": {
+        "Nature": "Magical humanoids / winged beings",
+        "Traits": ["tricksters", "nature-connected"],
+        "Themes": ["illusion", "whimsy", "bargains"]
+      }
+    },
+    "Variants": {
+      "Type": "Creature Variants",
+      "Content": [
+        "Seelie Court",
+        "Unseelie Court",
+        "Nature Spirits",
+        "Sprite Messengers",
+        "Glamour Wielders"
+      ]
+    },
+    "Appearance Notes": {
+      "Type": "Visual Description",
+      "Content": [
+        "Delicate wings",
+        "Glowing skin",
+        "Elfin features",
+        "Nature-woven clothes",
+        "Fluttering movement"
+      ]
+    },
+    "Story Archetypes": {
+      "Type": "Story Template",
+      "Content": [
+        "Human enters fae bargain",
+        "Mischief causes chaos",
+        "Court politics",
+        "Rescue from enchanted forest",
+        "Illusion dance"
+      ]
+    },
+    "Atmosphere Guide": {
+      "Type": "Writing Tone",
+      "Content": [
+        "Lyrical, whimsical",
+        "Nature enchantment",
+        "Hidden danger and wonder"
+      ]
+    }
+  },
+
+  "Ghost": {
+    "Core Traits": {
+      "Type": "Creature Profile",
+      "Content": {
+        "Nature": "Spirits of dead",
+        "Traits": ["intangible", "lingering"],
+        "Motivation": "unfinished business",
+        "Themes": ["memory", "tragedy", "haunting"]
+      }
+    },
+    "Variants": {
+      "Type": "Creature Variants",
+      "Content": [
+        "Benevolent Spirits",
+        "Vengeful Wraiths",
+        "Poltergeists",
+        "Shades",
+        "Guardian Ancestors"
+      ]
+    },
+    "Appearance Notes": {
+      "Type": "Visual Description",
+      "Content": [
+        "Translucent forms",
+        "Flickering presence",
+        "Hollow eyes",
+        "Cold aura",
+        "Silent sudden movement"
+      ]
+    },
+    "Story Archetypes": {
+      "Type": "Story Template",
+      "Content": [
+        "Haunted house",
+        "Spirit seeks justice",
+        "Lost lover ghost",
+        "Child ghost guide",
+        "Deathsite curse"
+      ]
+    },
+    "Atmosphere Guide": {
+      "Type": "Writing Tone",
+      "Content": [
+        "Quiet, eerie",
+        "Cold and silence",
+        "Emotional and haunting"
+      ]
+    }
+  },
+
+  "Demon": {
+    "Core Traits": {
+      "Type": "Creature Profile",
+      "Content": {
+        "Nature": "Malevolent supernatural beings",
+        "Traits": ["manipulative", "powerful"],
+        "Themes": ["temptation", "destruction"]
+      }
+    },
+    "Variants": {
+      "Type": "Creature Variants",
+      "Content": [
+        "Fire Demons",
+        "Shadow Demons",
+        "Tempters",
+        "Warbringers",
+        "Fallen Spirits"
+      ]
+    },
+    "Appearance Notes": {
+      "Type": "Visual Description",
+      "Content": [
+        "Horns, flames, smoke",
+        "Dark wings",
+        "Burning red eyes",
+        "Twisted bodies",
+        "Aura of corruption"
+      ]
+    },
+    "Story Archetypes": {
+      "Type": "Story Template",
+      "Content": [
+        "Contract of power",
+        "Possession / exorcism",
+        "Demonic wars",
+        "Hero tempted",
+        "Apocalypse prophecy"
+      ]
+    },
+    "Atmosphere Guide": {
+      "Type": "Writing Tone",
+      "Content": [
+        "Dark, infernal",
+        "Fire and shadows",
+        "Corruption and temptation"
+      ]
+    }
+  },
+
+  "Angel": {
+    "Core Traits": {
+      "Type": "Creature Profile",
+      "Content": {
+        "Nature": "Celestial beings",
+        "Traits": ["radiant", "winged"],
+        "Roles": ["guardian", "warrior"],
+        "Themes": ["virtue", "judgment", "destiny"]
+      }
+    },
+    "Variants": {
+      "Type": "Creature Variants",
+      "Content": [
+        "Guardians",
+        "Seraphim",
+        "Messengers",
+        "Fallen Angels",
+        "Justice Bringers"
+      ]
+    },
+    "Appearance Notes": {
+      "Type": "Visual Description",
+      "Content": [
+        "Golden/white wings",
+        "Glowing skin",
+        "Star-like eyes",
+        "Light armor or robes"
+      ]
+    },
+    "Story Archetypes": {
+      "Type": "Story Template",
+      "Content": [
+        "Angelic intervention",
+        "Heavenly war",
+        "Fallen redemption",
+        "Mortal chosen",
+        "Judgment upon wicked"
+      ]
+    },
+    "Atmosphere Guide": {
+      "Type": "Writing Tone",
+      "Content": [
+        "Divine, serene",
+        "Light and sky imagery",
+        "Morality and destiny"
+      ]
+    }
+  },
+
+  "Merfolk": {
+    "Core Traits": {
+      "Type": "Creature Profile",
+      "Content": {
+        "Nature": "Half-human aquatic beings",
+        "Abilities": ["water-breathing", "singing allure"],
+        "Themes": ["mystery", "beauty", "danger"]
+      }
+    },
+    "Variants": {
+      "Type": "Creature Variants",
+      "Content": [
+        "Sirens",
+        "Deep Sea Merfolk",
+        "Coral Nobles",
+        "River Merfolk",
+        "Tidecallers"
+      ]
+    },
+    "Appearance Notes": {
+      "Type": "Visual Description",
+      "Content": [
+        "Scaled tails",
+        "Flowing underwater hair",
+        "Iridescent eyes",
+        "Webbed hands",
+        "Luminescent markings"
+      ]
+    },
+    "Story Archetypes": {
+      "Type": "Story Template",
+      "Content": [
+        "Shipwreck survivor meets merfolk",
+        "Siren temptation",
+        "Undersea kingdom",
+        "Forbidden love",
+        "War with surface"
+      ]
+    },
+    "Atmosphere Guide": {
+      "Type": "Writing Tone",
+      "Content": [
+        "Fluid and dreamy",
+        "Ocean imagery",
+        "Allure and mystery"
+      ]
+    }
+  },
+
+  "Witch": {
+    "Core Traits": {
+      "Type": "Creature Profile",
+      "Content": {
+        "Nature": "Magic-wielding humans",
+        "Tools": ["potions", "rituals", "spells"],
+        "Themes": ["knowledge", "rebellion", "secrecy"]
+      }
+    },
+    "Variants": {
+      "Type": "Creature Variants",
+      "Content": [
+        "Herbal Witches",
+        "Elemental Witches",
+        "Coven Leaders",
+        "Dark Hexers",
+        "Hedge Witches"
+      ]
+    },
+    "Appearance Notes": {
+      "Type": "Visual Description",
+      "Content": [
+        "Cloaks, runes",
+        "Staffs, grimoires",
+        "Ritual markings",
+        "Elemental auras",
+        "Animal familiars"
+      ]
+    },
+    "Story Archetypes": {
+      "Type": "Story Template",
+      "Content": [
+        "Apprentice training",
+        "Village cursed",
+        "Misunderstood witch hunted",
+        "Covens clash",
+        "Witch and unlikely hero"
+      ]
+    },
+    "Atmosphere Guide": {
+      "Type": "Writing Tone",
+      "Content": [
+        "Mystical, arcane",
+        "Symbolic ritual imagery",
+        "Empowerment and secrecy"
+      ]
+    }
+  },
+
+  "Zombie": {
+    "Core Traits": {
+      "Type": "Creature Profile",
+      "Content": {
+        "Nature": "Reanimated corpses",
+        "Motivation": "hunger / infection",
+        "Awareness": "mindless or semi-aware",
+        "Themes": ["survival", "decay", "apocalypse"]
+      }
+    },
+    "Variants": {
+      "Type": "Creature Variants",
+      "Content": [
+        "Slow Zombies",
+        "Fast Infected",
+        "Intelligent Undead",
+        "Plague Spreaders",
+        "Mutants"
+      ]
+    },
+    "Appearance Notes": {
+      "Type": "Visual Description",
+      "Content": [
+        "Decayed flesh",
+        "Blank eyes",
+        "Rotting limbs",
+        "Slow or frantic movement",
+        "Groans and twitching"
+      ]
+    },
+    "Story Archetypes": {
+      "Type": "Story Template",
+      "Content": [
+        "Outbreak begins",
+        "Survivors seek haven",
+        "Group betrayal",
+        "Search for cure",
+        "City overrun"
+      ]
+    },
+    "Atmosphere Guide": {
+      "Type": "Writing Tone",
+      "Content": [
+        "Gritty, desperate",
+        "Decay and ruin",
+        "Claustrophobic survival"
+      ]
+    }
+  }
+}
+
